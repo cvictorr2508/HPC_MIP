@@ -1,4 +1,4 @@
-<center><img width="800" src="images/DCA1.jpeg"></center>
+<center><img width="800" src="images/DCA1.jpg"></center>
 
 # Federal University of Rio Grande do Norte (UFRN)
 ## Technology Center
