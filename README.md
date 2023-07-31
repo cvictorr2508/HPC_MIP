@@ -1,9 +1,14 @@
-<center><img width="800" src="images/dca1.jpeg"></center>
+<center><img width="800" src="images/DCA1.jpg"></center>
 
 # Federal University of Rio Grande do Norte (UFRN)
 ## Technology Center
 ### Department of Computer Engineering and Automation (DCA)
 #### Laboratory of Parallel Architectures for Signal Processing (LAPPS)
+
+#### Invited Researcher: Prof. Dr. Victor Rafael R. Celestino - ADM/FACE - University of Brasilia (UnB)
+- :Lattes: http://lattes.cnpq.br/6704883902846881
+- :UnB: http://pesquisar.unb.br/professor/victor-rafael-rezende-celestino
+- :ResearchGate: https://www.researchgate.net/profile/Victor_Celestino
 
 #### References
 
@@ -12,3 +17,4 @@
 #### Research Projects
 
 **mip_hpc_2023**: Mixed integer programming with high-performance computing technical visit as invited research to LAPPS/DCA/UFRN
+- :activities:
