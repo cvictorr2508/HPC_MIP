@@ -5,7 +5,7 @@
 ### Department of Computer Engineering and Automation (DCA)
 #### Laboratory of Parallel Architectures for Signal Processing (LAPPS)
 
-<left><img width="800" src="images/logo-lapps.png"width=50% height=50%></left> <right><img width="800" src="images/Victor_2018.jpg"width=50% height=50%></right>
+<left><img width="400" src="images/logo-lapps.png"></left> <right><img width="100" src="images/Victor_2018.jpg"></right>
 
 #### Invited Researcher: Prof. Dr. Victor Rafael R. Celestino - ADM/FACE - University of Brasilia (UnB)
 - :Lattes: http://lattes.cnpq.br/6704883902846881
