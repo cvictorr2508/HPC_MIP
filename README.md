@@ -15,6 +15,7 @@
 #### References
 
 - :books: Roman Trobec, et al. Introduction to Parallel Computing: From algorithms to programming state-of-the-art platforms [[Link]](https://link.springer.com/book/10.1007/978-3-319-98833-7/)
+- :books: Pacheco, P. S., Malensek, M. (2021). An Introduction to Parallel Programming. [[Link]](https://doi.org/10.1016/B978-0-12-804605-0.00002-6/)
 
 #### Research Projects
 
